@@ -1,9 +1,9 @@
-<h1 align="center">💻 Mohamed | Aspiring Developer & Tech Enthusiast</h1>
+<h1 align="center"> <img src="https://emoji.discadia.com/emojis/85f70d42-c802-48f2-b3bb-f1506247f44b.GIF"> Simo | Aspiring Developer & Tech Enthusiast</h1>
 
 <p align="center">
-Hi there! 👋 I'm Mohamed, an 18-year-old programmer from Morocco. I enjoy exploring the world of coding, game development, and artificial intelligence. I aim to turn ideas into impactful digital solutions.
+Hi there! 👋 I'm Simo, an 18yo a programmer using python as main language. I enjoy exploring about games development and artificial intelligence and anything related to coding. I aim my own dream-game.
 </p>
-
+<img src="https://images.squarespace-cdn.com/content/v1/606d4deb4db8c15ea53b3624/1619052791039-U5P66XF1HX6OHSPMRHP0/banner_real.jpg">
 ---
 
 ## 🌟 About Me
