@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emoji.discadia.com/emojis/85f70d42-c802-48f2-b3bb-f1506247f44b.GIF"> Simo | Aspiring Developer & Tech Enthusiast</h1>
+ <h1 align="center"> <img src="https://emoji.discadia.com/emojis/85f70d42-c802-48f2-b3bb-f1506247f44b.GIF"> Simo | Aspiring Developer & Tech Enthusiast</h1>
 
 <p align="center">
 Hi there! 👋 I'm Simo, an 18yo a programmer using python as main language. I enjoy exploring about games development and artificial intelligence and anything related to coding. I aim my own dream-game.
