@@ -4,7 +4,11 @@
 Hi there! 👋 I'm Simo, an 18yo a programmer using python as main language. I enjoy exploring about games development and artificial intelligence and anything related to coding. I aim my own dream-game.
 </p>
 <img src="https://images.squarespace-cdn.com/content/v1/606d4deb4db8c15ea53b3624/1619052791039-U5P66XF1HX6OHSPMRHP0/banner_real.jpg">
----
+
+<audio controls>
+  <source src="https://drive.google.com/file/d/10dL8_jGgtUXCXK5tfY6Hw3Ep5EBs2O-k/view?usp=drivesdk" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## 🌟 About Me
 
