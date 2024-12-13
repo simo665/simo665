@@ -5,10 +5,9 @@ Hi there! 👋 I'm Simo, an 18yo a programmer using python as main language. I e
 </p>
 <img src="https://images.squarespace-cdn.com/content/v1/606d4deb4db8c15ea53b3624/1619052791039-U5P66XF1HX6OHSPMRHP0/banner_real.jpg">
 
-<audio controls>
-  <source src="https://downloads.khinsider.com/game-soundtracks/album/hollow-knight-original-soundtrack/01.%2520Enter%2520Hallownest.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[sad we can't play Audio directly 
+](https://downloads.khinsider.com/game-soundtracks/album/hollow-knight-original-soundtrack/01.%2520Enter%2520Hallownest.mp3)
+
 
 ## 🌟 About Me
 
