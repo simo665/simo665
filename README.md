@@ -8,6 +8,8 @@ Hi there! 👋 I'm Simo, an 18yo a programmer using python as main language. I e
 [sad we can't play Audio directly 
 ](https://downloads.khinsider.com/game-soundtracks/album/hollow-knight-original-soundtrack/01.%2520Enter%2520Hallownest.mp3)
 
+## Check For More Info!!: https://simo665.github.io/
+
 
 ## 🌟 About Me
 
